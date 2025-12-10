@@ -1,0 +1,7 @@
+{
+  "name": "SupportCopilot AI",
+  "description": "Production-grade AI customer service agent with multi-channel support, auto-routing, and voice capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
